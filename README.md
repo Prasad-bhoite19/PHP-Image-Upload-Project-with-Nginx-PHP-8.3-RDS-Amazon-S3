@@ -23,21 +23,21 @@ This project uploads an image using a PHP form. The image is stored in Amazon S3
 
 ## 🎯 Objectives / Goals
 
-Learn PHP 8.3 with Nginx
+◆ Learn PHP 8.3 with Nginx
 
-Upload files securely to Amazon S3
+◆ Upload files securely to Amazon S3
 
-Store data in Amazon RDS (MySQL)
+◆ Store data in Amazon RDS (MySQL)
 
-Configure IAM role for S3 access
+◆ Configure IAM role for S3 access
 
-Build Cloud Architecture
+◆ Build Cloud Architecture
 
-Deploy on EC2 Ubuntu
+◆ Deploy on EC2 Ubuntu
 
-Practice real workflow
+◆ Practice real workflow
 
-Improve resume with a real Cloud project
+◆ Improve resume with a real Cloud project
 
 
 
@@ -51,34 +51,34 @@ User -> Nginx -> PHP 8.3 -> RDS (MySQL)
 ## 🛠️ Technologies Used
 
 
-AWS (EC2, S3, RDS, IAM, VPC)
+◆ AWS (EC2, S3, RDS, IAM, VPC)
 
-PHP 8.3
+◆ PHP 8.3
 
-Nginx
+◆ Nginx
 
-MySQL
+◆ MySQL
 
-Ubuntu Linux
+◆ Ubuntu Linux
 
-Composer + AWS SDK
+◆ Composer + AWS SDK
 
 
 ## 🧰 Prerequisites
 
-AWS Account
+◆ AWS Account
 
-EC2 Ubuntu Instance
+◆ EC2 Ubuntu Instance
 
-IAM Role for S3
+◆ IAM Role for S3
 
-RDS MySQL Instance
+◆ RDS MySQL Instance
 
-S3 Bucket
+◆ S3 Bucket
 
-PHP 8.3 + Extensions
+◆ PHP 8.3 + Extensions
 
-Composer
+◆ Composer
 
 
 ## 📌 1. 🔧 Install Required Packages (Ubuntu Server)
@@ -222,17 +222,17 @@ You now have a professional, production-ready PHP + Nginx + S3 upload applicatio
 
 ## 🌥️ AWS Deployment Guide
 
-Launch EC2
+◆ Launch EC2
 
-Install PHP, Nginx, Composer
+◆ Install PHP, Nginx, Composer
 
-Connect RDS
+◆ Connect RDS
 
-Attach IAM Role
+◆ Attach IAM Role
 
-Deploy files
+◆ Deploy files
 
-Restart services
+◆ Restart services
 
 
 
@@ -273,11 +273,11 @@ Restart services
 
 ## 🧹 Troubleshooting
 
-404 error → Check Nginx root path
+◆ 404 error → Check Nginx root path
 
-RDS timeout → Check SG inbound rules
+◆ RDS timeout → Check SG inbound rules
 
-S3 upload fail → Check IAM role permissions
+◆ S3 upload fail → Check IAM role permissions
 
 
 ## 👨‍💻 Author
