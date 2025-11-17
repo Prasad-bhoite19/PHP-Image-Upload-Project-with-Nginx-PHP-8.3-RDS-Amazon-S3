@@ -112,8 +112,9 @@ Save
 -----
 ## 📌 7. Create files and Add Code: 
 
-1) 📝 form.html,
+1) 📝 form.html
 2) 🧩 upload.php
+   
 ```
 sudo nano form.html
 sudo nano upload.php
@@ -155,9 +156,7 @@ You now have a professional, production-ready PHP + Nginx + S3 upload applicatio
 ## 👨‍💻 Author
 
 ## Prasad 
-Cloud & DevOps Engineer
-
-## 🤝 Connect With Me
+Cloud & DevOps 
 
 - 🔗 [LinkedIn](http://linkedin.com/in/prasad-bhoite-a38a64223)  
 - 🔗 [GitHub](https://github.com/Prasad-bhoite19)  
