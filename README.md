@@ -99,7 +99,7 @@ Click Actions → Security → Modify IAM Role
 Select EC2-S3-Access-Role
 Save
 ```
-## 📌 7. Create files: 
+## 📌 7. Create files and Add Code: 
 
 1) 📝 form.html,
 2) 🧩 upload.php
@@ -111,7 +111,8 @@ sudo nano upload.php
 ```
 Open browser:
 http://YOUR-EC2-PUBLIC-IP/form.html
-Try uploading an image. Your file should:
+Try uploading an image.
+Your file should:
 save temporarily inside EC2 uploads/
 upload to Amazon S3 bucket
 save name + image URL into RDS MySQL
@@ -124,10 +125,15 @@ You now have a professional, production-ready PHP + Nginx + S3 upload applicatio
 📸 Recommended Screenshots to Include
 
 1️⃣ AWS EC2
+
 2️⃣ Nginx & Server Setup
+
 3️⃣ RDS
+
 4️⃣ S3 Bucket
+
 5️⃣ Application Output
+
 6️⃣ Project Structure
 
 ## 👨‍💻 Author
